@@ -1,4 +1,6 @@
 # PiClock
+#This project was copied directly from n0bel. All respect goes to him!
+
 A Fancy Clock built around a monitor and a Raspberry Pi
 
 ![PiClock Picture](https://raw.githubusercontent.com/n0bel/PiClock/master/Pictures/20150307_222711.jpg)
